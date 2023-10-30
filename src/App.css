@@ -1,0 +1,26 @@
+button{
+  line-height: 60px;
+  height: 60px;
+  width: 60px;
+  padding: 0px;
+  margin-top: 0px;
+  border: 2px solid black;
+  float: left;
+  font-size: larger;
+  font-weight: bolder;
+  background-color: rgb(135, 219, 18);
+  color: blue;
+  border-color: brown;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 35vh;
+}
+body{
+  background-color: rgb(180, 226, 226);
+}
+h2{
+ color: rgb(255, 2, 162);
+}
